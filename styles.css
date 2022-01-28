@@ -1,0 +1,32 @@
+
+div{
+    text-align: center;
+    overflow: hidden;
+    border: 2px solid black;
+    width: 350px;
+    background-color: yellow;
+    border-radius: 40px;
+}
+
+img{
+    width: 200px;
+}
+
+
+h1{
+    font-family: Impact;
+    font-size: 70px;
+    text-decoration: underline overline;
+    text-underline-offset: 9px;
+}
+
+h3{
+    font-family: fantasy;
+    font-size: 28px;
+}
+p{
+    font-family: Arial;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
